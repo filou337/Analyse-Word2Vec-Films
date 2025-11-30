@@ -35,7 +35,4 @@ En gros :
 │       └── movies_metadata.csv      # Dataset Kaggle (The Movies Dataset)
 ├── docs/
 │   └── Rapport_Word2Vec_Films.pdf   # Rapport complet (version LaTeX → PDF)
-├── figures/                         # Graphiques exportés (corrélation, ACP, t-SNE, clusters…)
-├── src/                             # (optionnel) scripts Python si je factorise le notebook
-├── requirements.txt
 └── README.md
